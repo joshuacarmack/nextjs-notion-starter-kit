@@ -10,16 +10,16 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Joshua Carmack Blog',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'blog.joshuacarmack.com',
   author: 'Joshua Carmack',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'The Blog of Joshua Carmack',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  //twitter: 'transitive_bs',
+  github: 'joshuacarmack',
+  linkedin: 'joshua-carmack',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
