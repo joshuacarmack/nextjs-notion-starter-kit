@@ -96,6 +96,8 @@ export function PageHead({
         title={site?.name}
       />
 
+      <script defer src="https://umami.jclab.xyz/script.js" data-website-id="020f2433-d7f2-4d9f-8580-c08b73c2b213"></script>
+      
       <meta property='og:title' content={title} />
       <meta name='twitter:title' content={title} />
       <title>{title}</title>
